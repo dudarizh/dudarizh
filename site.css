@@ -1,0 +1,91 @@
+header {
+	background: #BBBBBB;
+	padding: 20px;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+#bolinha {
+	width: 25%;
+	display: inline;
+	 
+}
+
+#Volei-Titulo {
+	font-size: 100px;
+	font-weight: bolder;
+	display: inline;
+    right: 0;
+    bottom: 15px;
+    font-style: ;
+}
+
+h2 {
+	background: #000000;
+	font-size: 75px;
+	text-align: center;
+}
+
+p {
+	font-size: 31px;
+	text-align: left;
+	display: inline;
+	width: 1000px;
+	top: 0;
+
+}
+
+#Imagem-Historia {
+	width: 900px;
+
+}
+
+p, #Imagem-Historia {
+	display: inline-block;
+}
+
+.caixa2 {
+	width: 100%;
+	background: #BBBBBB;
+}
+
+h3 {
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+#Pessoas {
+	display: inline-block;
+	width: 53%;
+}
+
+.Texto, #Pessoas {
+	font-size: 31px;
+	display: inline;
+	vertical-align: top;
+}
+
+.Texto {
+	padding-left: 2px;
+}
+
+#quadra-volei {
+	font-size: 25px;
+	vertical-align: top;
+	background-color: #BBBBBB;
+}
+
+#cu, #quadra-volei {
+	display: inline-block;
+	width: 50%;
+}
+
+#cu2 {
+	width: 50%;
+}
